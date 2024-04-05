@@ -1,6 +1,6 @@
 # Asian Modelica Conference 2024
 
-The **Asian Modelica Conference 2024** will be an in-person conference event. The conference will take place at the **Ramada Hotel in Jeju - Island** in South Korea from **December 5–6, 2024**. It is organized by [iVH](http://www.ivh.co.kr/) in cooperation with the [Modelica Association](https://modelica.org/association/). Join us in person in Jeju - Island.
+The **Asian Modelica Conference 2024** will be an in-person conference event. The conference will take place at the **Ramada Hotel in Jeju - Island** in South Korea from **December 12–13, 2024**. It is organized by [iVH](http://www.ivh.co.kr/) in cooperation with the [Modelica Association](https://modelica.org/association/). Join us in person in Jeju - Island.
 
 ![](Ramada.jpg)
 
@@ -64,10 +64,10 @@ The Modelica conference will bring together people using Modelica and/or other M
 Please see the [call for papers](call2024) for details about paper submissions, and the calls for [industrial user presentations](call2024), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. The submission deadlines are as follows:  
 
 - August 1, 2024 Submission of full papers
--	September 1, 2024 Submission of extended abstracts for presentation-only contributions, workshops and tutorials
+-	September 15, 2024 Submission of extended abstracts for presentation-only contributions, workshops and tutorials
 -	October 1, 2024 Notification of acceptance for papers and presentations
 -	October 30th, 2024 Submission of final papers and one-page abstracts
--	November 25th, 2024 Submission of final presentations
+-	November 31th, 2024 Submission of final presentations
 
 
 ## Sponsorship opportunities
